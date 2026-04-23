@@ -36,3 +36,8 @@ El dominio se divide principalmente en las siguientes clases:
 - `Pelicula`: Representa el objeto de alquiler (incluye subclases por género si aplica).
 - `Cliente`: Representa a los usuarios del sistema.
 - `Alquiler`: Registra la transacción entre el cliente y el film.
+
+  ## 👥 Autores del proyecto
+* **Brun, Juan**
+* **Ruano, Leandro**
+* **Salto, Mauricio Nahuel**
